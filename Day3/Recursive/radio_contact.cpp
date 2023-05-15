@@ -1,2 +1,2 @@
-// http://www.usaco.org/index.php?page=viewproblem2&cpid=598#
+// http://www.usaco.org/index.php?page=viewproblem2&cpid=598
 
