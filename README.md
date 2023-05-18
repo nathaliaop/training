@@ -25,5 +25,10 @@ Summary
 	- [CSES] [Coin Combinations II](https://cses.fi/problemset/task/1636): [iterative](Day3/Iterative/coins_combinations_II.cpp) and [recursive](Day3/Recursive/coins_combinations_II.cpp)
 	- [ATCODER] [LCS](https://atcoder.jp/contests/dp/tasks/dp_f): [iterative](Day3/Iterative/lcs.cpp) and [recursive](Day3/Recursive/lcs.cpp)
 	- [CSES] [Money Sums](https://cses.fi/problemset/task/1745): [iterative](Day3/Iterative/money_sums.cpp) and [recursive](Day3/Recursive/money_sums.cpp)
+	- [Day 5](Day5/) - Longest Increasing Subsequence
+	- [CSES] [Book Shop](https://cses.fi/problemset/task/1158): [iterative](Day3/Iterative/book_shop.cpp) and [recursive](Day3/Recursive/radio_contact.cpp)
+	- [CSES] [Coin Combinations II](https://cses.fi/problemset/task/1636): [iterative](Day3/Iterative/coins_combinations_II.cpp) and [recursive](Day3/Recursive/coins_combinations_II.cpp)
+	- [ATCODER] [LCS](https://atcoder.jp/contests/dp/tasks/dp_f): [iterative](Day3/Iterative/lcs.cpp) and [recursive](Day3/Recursive/lcs.cpp)
+	- [CSES] [Money Sums](https://cses.fi/problemset/task/1745): [iterative](Day3/Iterative/money_sums.cpp) and [recursive](Day3/Recursive/money_sums.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)

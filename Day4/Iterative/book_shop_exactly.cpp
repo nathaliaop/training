@@ -1,22 +1,23 @@
+// Alternative version in which you have to spend exactly x
 // https://cses.fi/problemset/task/1158
 
-// DOESN'T PASS WITHIN THE TIME LIMIT
-
 #include <bits/stdc++.h>
- 
+
 using namespace std;
- 
-const int MAX = 1001;
-const int MAXP = 1e5+1;
-const int INF = 1e9+1;
- 
+
+const int MAX = 117;
+const int MAXP = 1e5+17;
+const int INF = 1e18+17;
+
 int n, x;
 int price[MAX], pages[MAX];
 int dp[MAX][MAXP];
- 
+
 int solve(int book, int total) {
-    if (book == 0) return 0;
-    if (dp[book][total] != -1) return dp[book][total];
+    if (book == 0) {
+        if (total == 0) return 0;
+        return -INF;
+    } if (dp[book][total] != -1) return dp[book][total];
     
     if (total - price[book] >= 0) {
         dp[book][total] = max(
@@ -29,8 +30,8 @@ int solve(int book, int total) {
     
     return dp[book][total];
 }
- 
-int32_t main() {
+
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     
@@ -47,6 +48,6 @@ int32_t main() {
     memset(dp, -1, sizeof(dp));
     
     cout << solve(n, x) << '\n';
- 
+
     return 0;
 }
