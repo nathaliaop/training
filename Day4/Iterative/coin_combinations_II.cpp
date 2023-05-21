@@ -7,7 +7,7 @@ using namespace std;
 const int MAX = 1e6+17;
 const int MOD = 1e9+7;
 
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     

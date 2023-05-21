@@ -2,18 +2,16 @@
 
 #include <bits/stdc++.h>
 
-#define pb push_back
-#define int long long
-
 using namespace std;
 
 const int MAX = 117;
 const int MAX2 = 1e5+17;
 
 int n, w; 
-int peso[MAX], value[MAX], dp[MAX2][MAX];
+int peso[MAX], value[MAX];
+long long dp[MAX2][MAX];
 
-int solve(int p, int item) {
+long long solve(int p, int item) {
     if (item > n) return 0;
     if (dp[p][item] != -1) return dp[p][item];
     

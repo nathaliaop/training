@@ -2,9 +2,6 @@
 
 #include <bits/stdc++.h>
 
-#define pb push_back
-#define int long long
-
 using namespace std;
 
 const int MAX = 1017;
@@ -21,7 +18,7 @@ struct Point {
 
 int h, g;
 Point hol[MAX], gue[MAX];
-int dp[MAX][MAX][2];
+long long dp[MAX][MAX][2];
 
 // type 0 => hol
 // type 1 => gue
@@ -30,7 +27,7 @@ int dist(int x1, int y1, int x2, int y2) {
     return (x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2);
 }
 
-int energy(int type, int go, int hcount, int gcount) {
+long long energy(int type, int go, int hcount, int gcount) {
     int distance = 0;
     if (type == 0 && go == 0) {
         distance = dist(hol[hcount].x, hol[hcount].y, hol[hcount - 1].x, hol[hcount - 1].y);
@@ -44,11 +41,11 @@ int energy(int type, int go, int hcount, int gcount) {
     return distance;
 }
 
-int solve(int hcount, int gcount, int type) {
+long long solve(int hcount, int gcount, int type) {
     if (hcount == 0 && gcount == 0 && type == 0) return 0;
     if (hcount < 0 || gcount < 0) return INF;
     
-    int& ans = dp[hcount][gcount][type];
+    long long& ans = dp[hcount][gcount][type];
     
     if (ans != -1)
         return ans;
@@ -67,7 +64,7 @@ int solve(int hcount, int gcount, int type) {
     return ans;
 }
 
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     

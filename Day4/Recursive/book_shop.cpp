@@ -30,7 +30,7 @@ int solve(int book, int total) {
     return dp[book][total];
 }
  
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     

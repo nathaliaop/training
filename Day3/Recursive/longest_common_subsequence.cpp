@@ -2,9 +2,6 @@
 
 #include <bits/stdc++.h>
 
-#define pb push_back
-#define int long long
-
 using namespace std;
 
 const int MAX = 1017;
@@ -23,7 +20,7 @@ int solve(int i, int j) {
     return dp[i][j];
 }
 
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     

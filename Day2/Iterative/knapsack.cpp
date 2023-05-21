@@ -2,17 +2,15 @@
 
 #include <bits/stdc++.h>
 
-#define pb push_back
-#define int long long
-
 using namespace std;
 
 const int MAX = 117;
 const int MAX2= 1e5+17;
 
-int weight[MAX], value[MAX], dp[MAX2][MAX];
+int weight[MAX], value[MAX];
+long long dp[MAX2][MAX];
 
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     

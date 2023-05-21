@@ -12,7 +12,7 @@ const int INF = 1e18+17;
 
 int arr[117], dp[MAX];
 
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     

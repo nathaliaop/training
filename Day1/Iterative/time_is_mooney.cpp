@@ -2,9 +2,6 @@
 
 #include <bits/stdc++.h>
 
-#define pb push_back
-#define int long long
-
 using namespace std;
 
 const int MAX = 1017;
@@ -14,7 +11,7 @@ int money[MAX];
 vector<int> adj[MAX];
 int dp[MAX][MAX];
 
-int32_t main() {
+int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
@@ -27,7 +24,7 @@ int32_t main() {
     }
     for (int i = 0; i < m; i++) {
         int u, v; cin >> u >> v;
-        adj[u].pb(v);
+        adj[u].push_back(v);
     }
     
     memset(dp, -1, sizeof(dp));

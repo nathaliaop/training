@@ -1,7 +1,6 @@
-#include <bits/stdc++.h>
+// https://cses.fi/problemset/task/1634
 
-#define pb push_back
-#define int long long
+#include <bits/stdc++.h>
 
 using namespace std;
 
