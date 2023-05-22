@@ -44,6 +44,12 @@ int main() {
     }
     
     cout << ans << '\n';
+<<<<<<< HEAD
 
     return 0;
 }
+=======
+ 
+    return 0;
+}
+>>>>>>> 0d3075c1da95f9b020ddc65f86d03fc8c57b2764
