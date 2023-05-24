@@ -50,4 +50,12 @@ Summary
 	- [ATCODER] [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c): [iterative](Day8/Iterative/vacation.cpp) and [recursive](Day8/Recursive/vacation.cpp)
 	- [ATCODER] [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g): [solution](Day8/longest_path.cpp)
 
+- [Day 9](Day9) - Knapsack 2
+	- [USACO] [Fruit Feast](http://www.usaco.org/index.php?page=viewproblem2&cpid=574): [iterative](Day9/Iterative/fruit_feast.cpp) and [recursive](Day9/Recursive/fruit_feast.cpp)
+	- [CSES] [Two Sets II](https://cses.fi/problemset/task/1093): [solution](Day9/two_sets_II.cpp)
+
+- [Day 10](Day10) - Grid Paths 2
+	- [CSES] [Array Description](https://cses.fi/problemset/task/1746): [solution](Day10/array_description.cpp)
+	- [CSES] [Edit Distance](https://cses.fi/problemset/task/1639): [solution](Day10/edit_distance.cpp)
+
 Thanks : [tilnoene](https://github.com/tilnoene)
