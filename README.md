@@ -56,6 +56,6 @@ Summary
 
 - [Day 10](Day10) - Grid Paths 2
 	- [CSES] [Array Description](https://cses.fi/problemset/task/1746): [solution](Day10/array_description.cpp)
-	- [CSES] [Edit Distance](https://cses.fi/problemset/task/1639): [solution](Day10/edit_distance.cpp)
+	- [CSES] [Edit Distance](https://cses.fi/problemset/task/1639): [solution](Day10/edit_distance.cpp) and [solution with path recovery](Day10/edit_distance_path_recovery.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)
