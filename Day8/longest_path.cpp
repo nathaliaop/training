@@ -1,5 +1,7 @@
 // https://atcoder.jp/contests/dp/tasks/dp_g
 
+// https://atcoder.jp/contests/dp/tasks/dp_g
+
 #include <bits/stdc++.h>
 
 #define pb push_back
@@ -34,16 +36,18 @@ int main() {
     
     for (int i = 0; i < m; i++) {
         int u, v; cin >> u >> v;
-        adj[v].pb(u);
+        adj[u].pb(v);
         s.insert(u);
     }
     
     memset(dp, -1, sizeof(dp));
     
-    // chamar de um nó sem indegree (xonsiderando o grado invertido)
+    // call from a node without outdegree
+    // because the longest path will always end in a node without outdegree
+    // otherwise one could increase the size of the longest path
     int ans = 0;
     for (int i = 1; i <= n; i++) {
-        if (dp[i] == -1 && s.find(i) == s.end()) ans = max(ans, solve(i));
+        if (dp[i] == -1 && s.find(i) != s.end()) ans = max(ans, solve(i));
     }
     
     cout << ans << '\n';
