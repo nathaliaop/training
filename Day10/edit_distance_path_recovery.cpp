@@ -70,7 +70,7 @@ int main() {
                 tcurr++;
                 break;
             case 4:
-                cout << "KEEP LETTER " << s[scurr] << '\n';
+                cout << "KEEP " << s[scurr] << '\n';
                 scurr++;
                 tcurr++;
                 break;
