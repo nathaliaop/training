@@ -68,8 +68,8 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     
-    freopen("checklist.in", "r", stdin);
-    freopen("checklist.out", "w", stdout);
+    // freopen("checklist.in", "r", stdin);
+    // freopen("checklist.out", "w", stdout);
     
     cin >> h >> g;
     

@@ -15,8 +15,8 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    freopen("time.in", "r", stdin);
-    freopen("time.out", "w", stdout);
+    // freopen("time.in", "r", stdin);
+    // freopen("time.out", "w", stdout);
 
     cin >> n >> m >> c;
     for (int i = 1; i <= n; i++) {

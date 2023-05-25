@@ -8,7 +8,7 @@ Summary
 - [Day 1](Day1) - Theory
 	- [USACO] [Hoof Paper Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=688): [iterative](Day1/Iterative/hoof_paper_scissors.cpp) and [recursive](Day1/Recursive/hoof_paper_scissors.cpp)
 	- [CODEFORCES] [Mortal Kombat Tower](https://codeforces.com/problemset/problem/1418/C): [iterative](Day1/Iterative/mortal_kombat_tower.cpp) and [recursive](Day1/Recursive/mortal_kombat_tower.cpp)
-	- [USACO] [Time is Mooney](http://www.usaco.org/index.php?page=viewproblem2&cpid=993): [iterative](Day1/Iterative/time_is_money.cpp) and [recursive](Day1/Recursive/time_is_money.cpp)
+	- [USACO] [Time is Mooney](http://www.usaco.org/index.php?page=viewproblem2&cpid=993): [iterative](Day1/Iterative/time_is_mooney.cpp) and [recursive](Day1/Recursive/time_is_mooney.cpp)
 
 - [Day 2](Day2) - Knapsack
 	- [CSES] [Coins Combinations I](https://cses.fi/problemset/task/1635): [iterative](Day2/Iterative/coins_combinations_I.cpp) and [recursive](Day2/Recursive/coins_combinations_I.cpp)

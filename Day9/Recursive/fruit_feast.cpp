@@ -30,8 +30,8 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     
-    freopen("feast.in", "r", stdin);
-    freopen("feast.out", "w", stdout);
+    // freopen("feast.in", "r", stdin);
+    // freopen("feast.out", "w", stdout);
     
     cin >> mx >> orange >> lemon;
     memset(dp, -1, sizeof(dp));

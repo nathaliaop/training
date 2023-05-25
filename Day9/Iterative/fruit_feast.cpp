@@ -12,8 +12,8 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
     
-    freopen("feast.in", "r", stdin);
-    freopen("feast.out", "w", stdout);
+    // freopen("feast.in", "r", stdin);
+    // freopen("feast.out", "w", stdout);
     
     int mx, orange, lemon; cin >> mx >> orange >> lemon;
     
