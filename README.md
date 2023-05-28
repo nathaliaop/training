@@ -58,4 +58,18 @@ Summary
 	- [CSES] [Array Description](https://cses.fi/problemset/task/1746): [iterative](Day10/Iterative/array_description.cpp) and [recursive](Day10/Recursive/array_description.cpp)
 	- [CSES] [Edit Distance](https://cses.fi/problemset/task/1639): [solution](Day10/edit_distance.cpp) and [solution with path recovery](Day10/edit_distance_path_recovery.cpp)
 
+- [Day 11](Day11) - General Review 2
+	- [USACO] [Teamwork](http://www.usaco.org/index.php?page=viewproblem2&cpid=863): [solution](Day11/teamwork.cpp)
+	- [USACO] [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=718): [solution](Day11/why_did_the_cow_cross_the_road_II.cpp)
+	- [USACO] [Snakes](http://www.usaco.org/index.php?page=viewproblem2&cpid=945): [solution](Day11/snakes.cpp)
+
+- [Day 12](Day12) - Digit DP 2
+	- [USACO] [Odometer](http://www.usaco.org/index.php?page=viewproblem2&cpid=435): [solution](Day12/odometer.cpp)
+
+- [Day 13](Day13) - Digit DP 3
+	- [ATCODER] [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s): [solution](Day13/digit_sum.cpp)
+	- [LIGHTOJ] [Digit Count](https://vjudge.net/problem/LightOJ-1122): [solution](Day13/digit_count.cpp)
+	- [SPOJ] [Ra One Numbers](https://www.spoj.com/problems/RAONE): [solution](Day13/ra_one_numbers.cpp)
+	- [SPOJ] [LUCIFER Number](https://www.spoj.com/problems/LUCIFER): [solution](Day13/lucifer_number.cpp)
+
 Thanks : [tilnoene](https://github.com/tilnoene)
