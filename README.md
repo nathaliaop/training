@@ -30,17 +30,28 @@ Summary
 	- [CSES] [Money Sums](https://cses.fi/problemset/task/1745): [iterative](Day4/Iterative/money_sums.cpp) and [recursive](Day4/Recursive/money_sums.cpp)
 
 - [Day 5](Day5) - Longest Increasing Subsequence
+	- Reading:
+		- [CSES, pg. 80, 7.2 Longest increasing subsequence](https://usaco.guide/CPH.pdf#page=80)
+		- [CP Algorithms, Longest increasing subsequence](https://cp-algorithms.com/sequences/longest_increasing_subsequence.html)
 	- [CSES] [Inscresing Subsequence](https://cses.fi/problemset/task/1145): [quadratic base for segtree](Day5/LIS/segtree_quadratic_base.cpp), [segtree](Day5/LIS/segtree.cpp), [quadratic base for binary search](Day5/LIS/binary_search_quadratic_base.cpp) and [binary search](Day5/LIS/binary_search.cpp) 
 	- [CSES] [Towers](https://cses.fi/problemset/task/1073): [solution](Day5/towers.cpp)
 	- [CSES] [Consecutive Subsequence](https://codeforces.com/contest/977/problem/F): [solution](Day5/consecutive_subsequence.cpp)
 	- [Codeforces] [LCS on Permutations](https://codeforces.com/gym/102951/problem/C): [solution](Day5/lcs_on_permutations.cpp)
 
 - [Day 6](Day6) - Bitmask DP
+	- Reading:
+		- [CSES Handbook, pg. 187, 19.2 Hamiltonian Paths](https://usaco.guide/CPH.pdf#page=187)
+		- [CSES Handbook, pg. 112, 10.5 DP on bits](https://usaco.guide/CPH.pdf#page=112)
+		- [A Primer on Bitmask DP](https://nwatx.me/post/dpbitmasks)
+		- [Dynamic Programming, pg. 37, 6. Bitmasking]( https://dp-book.com/Dynamic_Programming.pdf)
 	- [CSES] [Hamiltonian Flights](https://cses.fi/problemset/task/1690): [solution](Day6/hamiltonian_flights.cpp)
 	- [ATCODER] [Matching](https://atcoder.jp/contests/dp/tasks/dp_o): [solution](Day6/matching.cpp)
 	- [ATCODER] [Pac-Takahashi](https://atcoder.jp/contests/abc301/tasks/abc301_e): [solution](Day6/pac_takahashi.cpp)
 
 - [Day 7](Day7) - Digit DP
+	- Reading:
+		- [Codeforces Blog Digit DP](https://codeforces.com/blog/entry/53960)
+		- [Dynamic Programming, pg. 30, 5. Digits](https://dp-book.com/Dynamic_Programming.pdf)
 	- [SPOJ] [Digit Sum](https://www.spoj.com/problems/PR003004): [solution](Day7/digit_sum.cpp)
 	- [LIGHTOJ] [Investigation](https://vjudge.net/problem/LightOJ-1068): [solution](Day7/investigation.cpp)
 
@@ -55,6 +66,9 @@ Summary
 	- [CSES] [Two Sets II](https://cses.fi/problemset/task/1093): [solution](Day9/two_sets_II.cpp)
 
 - [Day 10](Day10) - Grid Paths 2
+	- Reading:
+		- [Handbook, pg. 81, 7.3 Paths in a grid](https://usaco.guide/CPH.pdf#page=81)
+		- [Programiz - Longest Common Subsequence](https://www.programiz.com/dsa/longest-common-subsequence)
 	- [CSES] [Array Description](https://cses.fi/problemset/task/1746): [iterative](Day10/Iterative/array_description.cpp) and [recursive](Day10/Recursive/array_description.cpp)
 	- [CSES] [Edit Distance](https://cses.fi/problemset/task/1639): [solution](Day10/edit_distance.cpp) and [solution with path recovery](Day10/edit_distance_path_recovery.cpp)
 
@@ -64,6 +78,8 @@ Summary
 	- [USACO] [Snakes](http://www.usaco.org/index.php?page=viewproblem2&cpid=945): [solution](Day11/snakes.cpp)
 
 - [Day 12](Day12) - Digit DP 2
+	- Reading:
+		- [Geek for geeks](https://www.geeksforgeeks.org/digit-dp-introduction/)
 	- [USACO] [Odometer](http://www.usaco.org/index.php?page=viewproblem2&cpid=435): [solution](Day12/odometer.cpp)
 
 - [Day 13](Day13) - Digit DP 3
@@ -71,5 +87,15 @@ Summary
 	- [LIGHTOJ] [Digit Count](https://vjudge.net/problem/LightOJ-1122): [solution](Day13/digit_count.cpp)
 	- [SPOJ] [Ra One Numbers](https://www.spoj.com/problems/RAONE): [solution](Day13/ra_one_numbers.cpp)
 	- [SPOJ] [LUCIFER Number](https://www.spoj.com/problems/LUCIFER): [solution](Day13/lucifer_number.cpp)
+
+- [Day 14](Day14) - Range DP
+	- [USACO] [Modern Art 3](http://usaco.org/index.php?page=viewproblem2&cpid=1114): [solution](Day14/modern_art_3.cpp)
+	- [CODEFORCES] [Clear the String](https://codeforces.com/contest/1132/problem/F): [solution](Day14/clear_the_string.cpp)
+	- [CODEFORCES] [Vasya and Binary String](https://codeforces.com/contest/1107/problem/E): [solution](Day14/vasya_and_binary_string.cpp)
+
+- [Day 15](Day15) - Kadane
+	- [LEETCODE] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [solution](Day15/maximum_subarray.cpp)
+	- [CSES] [Maximum Subarray Sum](https://cses.fi/problemset/task/1643): [solution](Day15/maximum_subarray_sum.cpp)
+	- [CODEFORCES] [Beautiful Array](https://codeforces.com/contest/1155/problem/D): [solution](Day15/beautiful_array.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)
