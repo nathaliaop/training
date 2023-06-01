@@ -87,6 +87,7 @@ Summary
 	- [ATCODER] [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s): [solution](Day13/digit_sum.cpp)
 	- [LIGHTOJ] [Digit Count](https://vjudge.net/problem/LightOJ-1122): [solution](Day13/digit_count.cpp)
 	- [SPOJ] [Ra One Numbers](https://www.spoj.com/problems/RAONE): [solution](Day13/ra_one_numbers.cpp)
+	- [SPOJ] [G-One Numbers](https://www.spoj.com/problems/GONE): [solution](Day13/g_one_numbers.cpp)
 	- [SPOJ] [LUCIFER Number](https://www.spoj.com/problems/LUCIFER): [solution](Day13/lucifer_number.cpp)
 
 - [Day 14](Day14) - Range DP
