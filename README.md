@@ -81,6 +81,7 @@ Summary
 	- Reading:
 		- [Geek for geeks](https://www.geeksforgeeks.org/digit-dp-introduction/)
 	- [USACO] [Odometer](http://www.usaco.org/index.php?page=viewproblem2&cpid=435): [solution](Day12/odometer.cpp)
+	- [CSES] [Counting Numbers](https://cses.fi/problemset/task/2220/): [solution](Day12/counting_numbers.cpp)
 
 - [Day 13](Day13) - Digit DP 3
 	- [ATCODER] [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s): [solution](Day13/digit_sum.cpp)
