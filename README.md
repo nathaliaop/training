@@ -1,6 +1,6 @@
-# DP Intensive
+# Training
 
-Problems for practicing dynamic programming techniques
+Problems for practicing competitive programming techniques
 
 Summary
 ------------
@@ -97,7 +97,13 @@ Summary
 
 - [Day 15](Day15) - Kadane
 	- [LEETCODE] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [solution](Day15/maximum_subarray.cpp)
-	- [CSES] [Maximum Subarray Sum](https://cses.fi/problemset/task/1643): [solution](Day15/maximum_subarray_sum.cpp)
+	- [CSES] [Maximum Subarray Sum](https://cses.fi/problemset/task/1643): [iterative](Day15/Iterative/maximum_subarray_sum.cpp) and [recursive](Day15/Recursive/maximum_subarray_sum.cpp)
 	- [CODEFORCES] [Beautiful Array](https://codeforces.com/contest/1155/problem/D): [solution](Day15/beautiful_array.cpp)
+
+- [Day 16](Day16) - Greedy Algorithms with Sorting
+	- [USACO] [Studying Algorithms](https://codeforces.com/gym/102951/problem/B): [solution](Day16/studying_algorithms.cpp)
+	- [CSES] [Movie Festival](https://cses.fi/problemset/task/1629): [solution](Day16/movie_festival.cpp)
+	- [CSES] [Tasks and Deadlines](https://cses.fi/problemset/task/1630): [solution](Day16/tasks_and_deadlines.cpp)
+	- [CSES] [Movie Festival II](https://cses.fi/problemset/task/1632): [solution](Day16/movie_festival_II.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)
