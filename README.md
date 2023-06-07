@@ -30,7 +30,7 @@ Summary
 	- [CSES] [Money Sums](https://cses.fi/problemset/task/1745): [iterative](Day4/Iterative/money_sums.cpp) and [recursive](Day4/Recursive/money_sums.cpp)
 
 - [Day 5](Day5) - Longest Increasing Subsequence
-	- Reading:
+	- Material:
 		- [CSES, pg. 80, 7.2 Longest increasing subsequence](https://usaco.guide/CPH.pdf#page=80)
 		- [CP Algorithms, Longest increasing subsequence](https://cp-algorithms.com/sequences/longest_increasing_subsequence.html)
 	- [CSES] [Inscresing Subsequence](https://cses.fi/problemset/task/1145): [quadratic base for segtree](Day5/LIS/segtree_quadratic_base.cpp), [segtree](Day5/LIS/segtree.cpp), [quadratic base for binary search](Day5/LIS/binary_search_quadratic_base.cpp) and [binary search](Day5/LIS/binary_search.cpp) 
@@ -39,7 +39,7 @@ Summary
 	- [Codeforces] [LCS on Permutations](https://codeforces.com/gym/102951/problem/C): [solution](Day5/lcs_on_permutations.cpp)
 
 - [Day 6](Day6) - Bitmask DP
-	- Reading:
+	- Material:
 		- [CSES Handbook, pg. 187, 19.2 Hamiltonian Paths](https://usaco.guide/CPH.pdf#page=187)
 		- [CSES Handbook, pg. 112, 10.5 DP on bits](https://usaco.guide/CPH.pdf#page=112)
 		- [A Primer on Bitmask DP](https://nwatx.me/post/dpbitmasks)
@@ -49,7 +49,7 @@ Summary
 	- [ATCODER] [Pac-Takahashi](https://atcoder.jp/contests/abc301/tasks/abc301_e): [solution](Day6/pac_takahashi.cpp)
 
 - [Day 7](Day7) - Digit DP
-	- Reading:
+	- Material:
 		- [Codeforces Blog Digit DP](https://codeforces.com/blog/entry/53960)
 		- [Dynamic Programming, pg. 30, 5. Digits](https://dp-book.com/Dynamic_Programming.pdf)
 	- [SPOJ] [Digit Sum](https://www.spoj.com/problems/PR003004): [solution](Day7/digit_sum.cpp)
@@ -66,7 +66,7 @@ Summary
 	- [CSES] [Two Sets II](https://cses.fi/problemset/task/1093): [solution](Day9/two_sets_II.cpp)
 
 - [Day 10](Day10) - Grid Paths 2
-	- Reading:
+	- Material:
 		- [Handbook, pg. 81, 7.3 Paths in a grid](https://usaco.guide/CPH.pdf#page=81)
 		- [Programiz - Longest Common Subsequence](https://www.programiz.com/dsa/longest-common-subsequence)
 	- [CSES] [Array Description](https://cses.fi/problemset/task/1746): [iterative](Day10/Iterative/array_description.cpp) and [recursive](Day10/Recursive/array_description.cpp)
@@ -78,10 +78,10 @@ Summary
 	- [USACO] [Snakes](http://www.usaco.org/index.php?page=viewproblem2&cpid=945): [solution](Day11/snakes.cpp)
 
 - [Day 12](Day12) - Digit DP 2
-	- Reading:
-		- [Geek for geeks](https://www.geeksforgeeks.org/digit-dp-introduction/)
+	- Material:
+		- [Geek for geeks](https://www.geeksforgeeks.org/digit-dp-introduction)
 	- [USACO] [Odometer](http://www.usaco.org/index.php?page=viewproblem2&cpid=435): [solution](Day12/odometer.cpp)
-	- [CSES] [Counting Numbers](https://cses.fi/problemset/task/2220/): [solution](Day12/counting_numbers.cpp)
+	- [CSES] [Counting Numbers](https://cses.fi/problemset/task/2220): [solution](Day12/counting_numbers.cpp)
 
 - [Day 13](Day13) - Digit DP 3
 	- [ATCODER] [Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s): [solution](Day13/digit_sum.cpp)
@@ -105,5 +105,36 @@ Summary
 	- [CSES] [Movie Festival](https://cses.fi/problemset/task/1629): [solution](Day16/movie_festival.cpp)
 	- [CSES] [Tasks and Deadlines](https://cses.fi/problemset/task/1630): [solution](Day16/tasks_and_deadlines.cpp)
 	- [CSES] [Movie Festival II](https://cses.fi/problemset/task/1632): [solution](Day16/movie_festival_II.cpp)
+
+- [Day 17](Day17) - Prefix Sum
+	- [USACO] [Subsequences Summing to Sevens](http://www.usaco.org/index.php?page=viewproblem2&cpid=595): [solution](Day17/subsequences_summing_to_sevens.cpp)
+	- [USACO] [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=691): [solution](Day17/hoof_paper_scissors.cpp)
+	- [CSES] [Subarrray Sums II](https://cses.fi/problemset/task/1661): [solution](Day17/subarray_sums_II.cpp)
+	- [CSES] [Subarray Divisibility](https://cses.fi/problemset/task/1662): [solution](Day17/subarray_divisibility.cpp)
+	- [SPOJ] [Maximum Sum Sequences](https://www.spoj.com/problems/MAXSUMSQ): [solution](Day17/maximum_sum_sequences.cpp)
+
+- [Day 18](Day18) - 2-SAT
+	- Material:
+		- [CP-Algorithms](https://cp-algorithms.com/graph/2SAT.html#practice-problems)
+		- [Codeforces 2-SAT Tutorial](https://codeforces.com/blog/entry/16205)
+	- [CSES] [Giant Pizza](https://cses.fi/problemset/task/1684): [solution](Day18/giant_pizza.cpp)
+	- [CODEFORCES] [Exam Period](https://codeforces.com/gym/104120/problem/E): [solution](Day18/exam_period.cpp)
+	- [CODEFORCES] [The Door Problem](https://codeforces.com/contest/776/problem/D): [solution](Day18/the_door_problem.cpp)
+
+- [Day 19](Day19) - Maximum Flow 1
+	- Material:
+		- [Maximum Flow Intuition](https://www.youtube.com/watch?v=K1i-wP82Zdo)
+		- [Dinic's Algorithm](https://www.youtube.com/watch?v=M6cm8UeeziI)
+		- [Dinic's Algorithm Source Code](https://www.youtube.com/watch?v=_SdF4KK_dyM&t=383s)
+	- [CSES] [Download Speed](hhttps://cses.fi/problemset/task/1694): [solution](Day19/download_speed.cpp)
+	- [CSES] [Distinct Routes](https://cses.fi/problemset/task/1711): [solution](Day19/distinct_routes.cpp)
+
+- [Day 20](Day20) - Maximum Flow 2
+	- [CSES] [School Dance](https://cses.fi/problemset/task/1696): [solution](Day20/school_dance.cpp)
+	- [CSES] [Police Chase](https://cses.fi/problemset/task/1695): [solution](Day20/police_chase.cpp)
+
+- [Day 21](Day21) - Convex Hull
+	- [CSES] [Convex Hull](https://cses.fi/problemset/task/2195): [solution](Day21/convex_hull_cses.cpp)
+	- [KATTIS] [Convex Hull](https://open.kattis.com/problems/convexhull): [solution](Day21/convex_hull_kattis.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)
