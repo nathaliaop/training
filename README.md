@@ -108,7 +108,7 @@ Summary
 
 - [Day 17](Day17) - Prefix Sum
 	- [USACO] [Subsequences Summing to Sevens](http://www.usaco.org/index.php?page=viewproblem2&cpid=595): [solution](Day17/subsequences_summing_to_sevens.cpp)
-	- [USACO] [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=691): [solution](Day17/hoof_paper_scissors.cpp)
+	- [USACO] [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=691): [prefix sum](Day17/hoof_paper_scissors_prefix_sum.cpp) and [dp](Day17/hoof_paper_scissors_dp.cpp)
 	- [CSES] [Subarrray Sums II](https://cses.fi/problemset/task/1661): [solution](Day17/subarray_sums_II.cpp)
 	- [CSES] [Subarray Divisibility](https://cses.fi/problemset/task/1662): [solution](Day17/subarray_divisibility.cpp)
 	- [SPOJ] [Maximum Sum Sequences](https://www.spoj.com/problems/MAXSUMSQ): [solution](Day17/maximum_sum_sequences.cpp)
