@@ -127,9 +127,11 @@ Summary
 	- Material:
 		- [Maximum Flow Intuition](https://www.youtube.com/watch?v=K1i-wP82Zdo)
 		- [Dinic's Algorithm](https://www.youtube.com/watch?v=M6cm8UeeziI)
-		- [Dinic's Algorithm Source Code](https://www.youtube.com/watch?v=_SdF4KK_dyM&t=383s)
+		- [Dinic's Algorithm Source Code](https://www.youtube.com/watch?v=_SdF4KK_dyM)
+		- [Handbook, pg. 191, Chapter 20 Flows and cuts](https://usaco.guide/CPH.pdf#page=191)
 	- [CSES] [Download Speed](https://cses.fi/problemset/task/1694): [solution](Day19/download_speed.cpp)
 	- [CSES] [Distinct Routes](https://cses.fi/problemset/task/1711): [solution](Day19/distinct_routes.cpp)
+	- [SPOJ] [Fast Maximum Flow](https://www.spoj.com/problems/FASTFLOW): [solution](Day19/fast_maximum_flow.cpp)
 
 - [Day 20](Day20) - Maximum Flow 2
 	- [CSES] [School Dance](https://cses.fi/problemset/task/1696): [solution](Day20/school_dance.cpp)
