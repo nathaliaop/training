@@ -111,12 +111,14 @@ Summary
 	- [USACO] [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=691): [prefix sum](Day17/hoof_paper_scissors_prefix_sum.cpp) and [dp](Day17/hoof_paper_scissors_dp.cpp)
 	- [CSES] [Subarrray Sums II](https://cses.fi/problemset/task/1661): [solution](Day17/subarray_sums_II.cpp)
 	- [CSES] [Subarray Divisibility](https://cses.fi/problemset/task/1662): [solution](Day17/subarray_divisibility.cpp)
+	- [CSES] [Range Xor Queries](https://cses.fi/problemset/task/1650): [solution](Day17/range_xor_queries.cpp)
 	- [SPOJ] [Maximum Sum Sequences](https://www.spoj.com/problems/MAXSUMSQ): [solution](Day17/maximum_sum_sequences.cpp)
 
 - [Day 18](Day18) - 2-SAT
 	- Material:
 		- [CP-Algorithms](https://cp-algorithms.com/graph/2SAT.html#practice-problems)
 		- [Codeforces 2-SAT Tutorial](https://codeforces.com/blog/entry/16205)
+		- [Handbook, pg. 167, Chapter 17 Strong connectivity](https://usaco.guide/CPH.pdf#page=167)
 	- [CSES] [Giant Pizza](https://cses.fi/problemset/task/1684): [solution](Day18/giant_pizza.cpp)
 	- [CODEFORCES] [Exam Period](https://codeforces.com/gym/104120/problem/E): [solution](Day18/exam_period.cpp)
 	- [CODEFORCES] [The Door Problem](https://codeforces.com/contest/776/problem/D): [solution](Day18/the_door_problem.cpp)
@@ -136,5 +138,12 @@ Summary
 - [Day 21](Day21) - Convex Hull
 	- [CSES] [Convex Hull](https://cses.fi/problemset/task/2195): [solution](Day21/convex_hull_cses.cpp)
 	- [KATTIS] [Convex Hull](https://open.kattis.com/problems/convexhull): [solution](Day21/convex_hull_kattis.cpp)
+
+- [Day 22](Day22) - Greedy Algorithms with Sorting 2
+	- [CSES] [Stick Lengths](https://cses.fi/problemset/task/1074): [solution](Day22/stick_lengths.cpp)
+	- [CSES] [Ferris Wheel](https://cses.fi/problemset/task/1090): [solution](Day22/ferris_wheel.cpp)
+	- [CSES] [Apartments](https://cses.fi/problemset/task/1084): [solution](Day22/apartments.cpp)
+	- [USACO] [Why Did the Cow Cross the Road](http://www.usaco.org/index.php?page=viewproblem2&cpid=714): [solution](Day22/why_did_the_cow_cross_the_road.cpp)
+	- [CSES] [Stack Divisions](https://cses.fi/problemset/task/1161): [solution](Day22/stack_divisions.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)
