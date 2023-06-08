@@ -128,7 +128,7 @@ Summary
 		- [Maximum Flow Intuition](https://www.youtube.com/watch?v=K1i-wP82Zdo)
 		- [Dinic's Algorithm](https://www.youtube.com/watch?v=M6cm8UeeziI)
 		- [Dinic's Algorithm Source Code](https://www.youtube.com/watch?v=_SdF4KK_dyM&t=383s)
-	- [CSES] [Download Speed](hhttps://cses.fi/problemset/task/1694): [solution](Day19/download_speed.cpp)
+	- [CSES] [Download Speed](https://cses.fi/problemset/task/1694): [solution](Day19/download_speed.cpp)
 	- [CSES] [Distinct Routes](https://cses.fi/problemset/task/1711): [solution](Day19/distinct_routes.cpp)
 
 - [Day 20](Day20) - Maximum Flow 2
