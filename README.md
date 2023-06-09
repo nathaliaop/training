@@ -146,6 +146,6 @@ Summary
 	- [CSES] [Ferris Wheel](https://cses.fi/problemset/task/1090): [solution](Day22/ferris_wheel.cpp)
 	- [CSES] [Apartments](https://cses.fi/problemset/task/1084): [solution](Day22/apartments.cpp)
 	- [USACO] [Why Did the Cow Cross the Road](http://www.usaco.org/index.php?page=viewproblem2&cpid=714): [solution](Day22/why_did_the_cow_cross_the_road.cpp)
-	- [CSES] [Stack Divisions](https://cses.fi/problemset/task/1161): [solution](Day22/stack_divisions.cpp)
+	- [CSES] [Stick Divisions](https://cses.fi/problemset/task/1161): [solution](Day22/stick_divisions.cpp)
 
 Thanks : [tilnoene](https://github.com/tilnoene)
