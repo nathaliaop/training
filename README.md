@@ -148,4 +148,7 @@ Summary
 	- [USACO] [Why Did the Cow Cross the Road](http://www.usaco.org/index.php?page=viewproblem2&cpid=714): [solution](Day22/why_did_the_cow_cross_the_road.cpp)
 	- [CSES] [Stick Divisions](https://cses.fi/problemset/task/1161): [solution](Day22/stick_divisions.cpp)
 
+- [Day 23](Day23) - Trie
+	- [CODEFORCES] [Vasiliy's Multiset](https://codeforces.com/problemset/problem/706/D): [solution](Day23/vasiliys_multiset.cpp)
+
 Thanks : [tilnoene](https://github.com/tilnoene)
