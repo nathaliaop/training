@@ -151,4 +151,54 @@ Summary
 - [Day 23](Day23) - Trie
 	- [CODEFORCES] [Vasiliy's Multiset](https://codeforces.com/problemset/problem/706/D): [solution](Day23/vasiliys_multiset.cpp)
 
+- [Day 24](Day24) - Stack
+    - Material:
+        - [CSAcademy, Stack Introduction](https://csacademy.com/lesson/stack_introduction)
+        - [Handbook, pg. 89, 8.2 Nearest smaller elements](https://usaco.guide/CPH.pdf#page=89)
+        - [CS Academy, Stack Application: Soldiers Row](https://csacademy.com/lesson/stack_application_soldiers_row)
+    - [CSES] [Nearest Smaller Values](https://cses.fi/problemset/task/1645): [solution](Day24/nearest_smallest_values.cpp)
+    - [CSES] [Advertisement](https://cses.fi/problemset/task/1142): [solution](Day24/advertisement.cpp)
+
+- [Day 25](Day25) - Introduction to Trees
+    - Material:
+        - [Introduction to Trees](https://tilnoene.gitbook.io/intensivao/trees/introduction)
+        - [CPH, Chapter 14 - Tree algorithms](https://usaco.guide/CPH.pdf#page=143)
+    - [CSES] [Subordinates](https://cses.fi/problemset/task/1674): [solution](Day25/subordinates.cpp)
+    - [CSES] [Tree Diameter](https://cses.fi/problemset/task/1131): [solution](Day25/tree_diameter.cpp)
+
+- [Day26](Day26) - Binary Lifting
+    - Material:
+        - [BInary Lifting](https://tilnoene.gitbook.io/intensivao/trees/binary-lifting)
+        - [CPH, 18.1 - Finding Ancestors](https://cses.fi/book/book.pdf#page=173)
+        - [AryanshS, Binary Lifting Part 1](https://aryansh.gitbook.io/informatics-notes/binary-lifting/binary-lifting-gold-part-1)
+    - [CSES] [Company Queries I](https://cses.fi/problemset/task/1687): [solution](Day26/company_queries_I.cpp)
+    - [CSES] [Planets Queries I](https://cses.fi/problemset/task/1750): [solution](Day26/planets_queries_I.cpp)
+
+- [Day27](Day27) - Lowest Common Ancestor
+    - Material:
+        - [LCA](https://tilnoene.gitbook.io/intensivao/trees/lca)
+        - [CPH, 18.3 Lowest common ancestor](https://cses.fi/book/book.pdf#page=177)
+        - [AryanshS, Binary Lifting Part 2](https://aryansh.gitbook.io/informatics-notes/binary-lifting/binary-lifting-gold-part-2)
+        - [AryanshS, Binary Lifting Part 3](https://aryansh.gitbook.io/informatics-notes/binary-lifting/binary-lifting-gold-part-3)
+    - [CSES] [Company Queries II](https://cses.fi/problemset/task/1688): [solution](Day27/company_queries_II.cpp)
+    - [CSES] [Distance Queries](https://cses.fi/problemset/task/1135): [solution](Day27/distance_queries.cpp)
+
+- [Day28](Day28) - Small to Large
+    - Material:
+        - [Small to Large](https://tilnoene.gitbook.io/intensivao/trees/small-to-large)
+        - [CPH, 18.4 Offline algorithms](https://usaco.guide/CPH.pdf#page=180)
+        - [Explaining DSU on Trees](https://codeforces.com/blog/entry/67696)
+        - [Sack (DSU on Tree)](https://codeforces.com/blog/entry/44351)
+        - [Proof of Small To Large in this question](https://usaco.guide/plat/merging?lang=cpp#better-solution)
+    - [CSES] [Distinct Colors](https://cses.fi/problemset/task/1139): [solution](Day28/distinct_colors.cpp)
+    - [CODEFORCES] [Lomsat Gelral](https://codeforces.com/contest/600/problem/E): [solution](Day28/lomsat_gelral.cpp)
+
+- [Day29](Day29) - Euler Tour
+    - Material:
+        - [Euler Tour](https://tilnoene.gitbook.io/intensivao/trees/euler-tour)
+        - [CPH, 18.2 - Subtree and paths](https://usaco.guide/CPH.pdf#page=174)
+        - [USACO Guide (walkthrough + animação)](https://usaco.guide/gold/tree-euler?lang=cpp#tour-walkthrough)
+    - [CSES] [Subtree Queries](https://cses.fi/problemset/task/1137): [solution](Day29/subtree_queries.cpp)
+    - [CSES] [Path Queries](https://cses.fi/problemset/task/1138): [solution](Day29/path_queries.cpp)
+
 Thanks : [tilnoene](https://github.com/tilnoene)
