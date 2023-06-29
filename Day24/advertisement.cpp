@@ -17,7 +17,7 @@ int main() {
   cin.tie(NULL);
  
   int n; cin >> n;
-  ll arr[MAX] = {};
+  int arr[MAX] = {};
   for (int i = 1; i <= n; i++) {
     cin >> arr[i];
   }
@@ -29,7 +29,7 @@ int main() {
   sl.push(mp(0, 0));
   sr.push(mp(0, n + 1));
  
-  ll left[MAX], right[MAX];
+  int left[MAX], right[MAX];
  
   for (int i = 1; i <= n; i++) {
     while (sl.top().ff >= arr[i]) {
@@ -50,7 +50,7 @@ int main() {
   ll ans = 0;
  
   for (int i = 1; i <= n; i++) {
-    ans = max(ans, (right[i] - left[i] - 1) * arr[i]);
+    ans = max(ans, 1LL * (right[i] - left[i] - 1) * arr[i]);
   }
  
   cout << ans << '\n';
