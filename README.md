@@ -164,7 +164,7 @@ Summary
         - [Introduction to Trees](https://tilnoene.gitbook.io/intensivao/trees/introduction)
         - [CPH, Chapter 14 - Tree algorithms](https://usaco.guide/CPH.pdf#page=143)
     - [CSES] [Subordinates](https://cses.fi/problemset/task/1674): [solution](Day25/subordinates.cpp)
-    - [CSES] [Tree Diameter](https://cses.fi/problemset/task/1131): [solution](Day25/tree_diameter.cpp)
+    - [CSES] [Tree Diameter](https://cses.fi/problemset/task/1131): [dfs](Day25/DFS/tree_diameter.cpp) and [dp](Day25/DP/tree_diameter.cpp)
 
 - [Day26](Day26) - Binary Lifting
     - Material:
@@ -180,7 +180,7 @@ Summary
         - [CPH, 18.3 Lowest common ancestor](https://cses.fi/book/book.pdf#page=177)
         - [AryanshS, Binary Lifting Part 2](https://aryansh.gitbook.io/informatics-notes/binary-lifting/binary-lifting-gold-part-2)
         - [AryanshS, Binary Lifting Part 3](https://aryansh.gitbook.io/informatics-notes/binary-lifting/binary-lifting-gold-part-3)
-    - [CSES] [Company Queries II](https://cses.fi/problemset/task/1688): [solution](Day27/company_queries_II.cpp)
+    - [CSES] [Company Queries II](https://cses.fi/problemset/task/1688): [binary lifting](Day27/BinaryLifting/company_queries_II.cpp) and [traversal array](Day27/TraversalArray/company_queries_II.cpp)
     - [CSES] [Distance Queries](https://cses.fi/problemset/task/1135): [solution](Day27/distance_queries.cpp)
 
 - [Day28](Day28) - Small to Large
