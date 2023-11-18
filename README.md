@@ -201,4 +201,11 @@ Summary
     - [CSES] [Subtree Queries](https://cses.fi/problemset/task/1137): [solution](Day29/subtree_queries.cpp)
     - [CSES] [Path Queries](https://cses.fi/problemset/task/1138): [solution](Day29/path_queries.cpp)
 
+# Season 2
+
+- [Día 1](Día1) - Complete Search
+    - [USACO] [Milk Pails](http://www.usaco.org/index.php?page=viewproblem2&cpid=615): [solution](Día1/pails.cpp)
+    - [USACO] [Cow Gymnastics](http://www.usaco.org/index.php?page=viewproblem2&cpid=963): [solution](Día1/gymnastics.cpp)
+    - [USACO] [Load Balancing](http://www.usaco.org/index.php?page=viewproblem2&cpid=617): [solution](Día1/balancing.cpp)
+
 Thanks : [tilnoene](https://github.com/tilnoene)
